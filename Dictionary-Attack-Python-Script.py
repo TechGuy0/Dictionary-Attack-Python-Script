@@ -1,5 +1,5 @@
 import poplib
-mailServer = 'pop.gmail.com'
+mailServer = 'sharanshrivathsav0.gmail.com'
 
 print('-------------------Dictionary Attack Python Script-------------------')
 print('                 ---------By Akshansh Kumar----------')
